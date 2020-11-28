@@ -34,3 +34,6 @@ To file an issue, use the tracker in the
 ## License
 
 [Apache License 2.0](LICENSE)
+
+## My thoughts
+It will be interesting to apply model on Android devices. The flexibility will expand the application scenarios.
